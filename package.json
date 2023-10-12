@@ -1,0 +1,16 @@
+{
+  "name": "scrap-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrap.js",
+  "scripts": {
+    "start": "node scrap"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^21.3.8"
+  }
+}
